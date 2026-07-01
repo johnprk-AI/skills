@@ -18,6 +18,7 @@
 **핵심 흐름**
 
 ```mermaid
+%%{init: {"theme": "neutral"}}%%
 flowchart LR
   A[자료 투입] --> B["인터뷰<br/>사실 · 감정 · 이해도"]
   B --> C[구조 합의]
@@ -32,6 +33,7 @@ flowchart LR
 **핵심 흐름**
 
 ```mermaid
+%%{init: {"theme": "neutral"}}%%
 flowchart LR
   A[기술 주제를 마주침] --> B[공식 문서 인용]
   A --> C[내 실측 수치]
@@ -46,6 +48,7 @@ flowchart LR
 **핵심 흐름**
 
 ```mermaid
+%%{init: {"theme": "neutral"}}%%
 flowchart LR
   A[자료] --> B[요구 형식 파악]
   B --> C[형식 그대로 강제]
@@ -63,6 +66,7 @@ flowchart LR
 **핵심 흐름**
 
 ```mermaid
+%%{init: {"theme": "neutral"}}%%
 flowchart LR
   A[기능 요청] --> B[체크리스트 등록]
   B --> C[작업]
@@ -78,6 +82,7 @@ flowchart LR
 **핵심 흐름**
 
 ```mermaid
+%%{init: {"theme": "neutral"}}%%
 flowchart LR
   A["8포즈 시트<br/>1장"] --> B[8분할]
   B --> C["누끼 · 디프린지"]
@@ -96,6 +101,7 @@ flowchart LR
 **핵심 흐름**
 
 ```mermaid
+%%{init: {"theme": "neutral"}}%%
 flowchart LR
   A[난이도 선택] --> B[문제 추천]
   B --> C[스스로 고민]
